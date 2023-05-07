@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Tasbeeh app may seem simple at first glance, but it boasts a unique feature that sets it apart from the rest. Each number displayed in the counter is distinct, adding a visually engaging and distinctive element to the app that captures the user's attention. This feature contributes to the app's uniqueness and enhances the overall user experience.
+This Tasbeeh app may seem simple at first glance, but it boasts a unique feature that sets it apart from the rest. Each number displayed in the counter is distinct, adding a visually engaging and distinctive element to the app that captures the user's attention. This feature contributes to the app's uniqueness and enhances the overall user experience. 
 
 ## Features
 
